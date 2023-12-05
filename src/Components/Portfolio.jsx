@@ -31,28 +31,40 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Omdena Real world AI Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to Analyzing and Predicting Food Prices in Nigeria Using Machine Learning and Python",
+    url: "https://dagshub.com/Omdena/KanoNigeriaChapter_FoodPrices",
   },
   {
-    title: "Web Development for Beginners",
+    title: "House_price_prediction",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+     "Predictive Model for House Price Estimation using Machine Learning",
+    url: "https://github.com/armaf002/House_price_prediction/tree/codespace-armaf002-upgraded-space-succotash-wpx6r449q75f9q6j",
   },
   {
-    title: "My Resume Site",
+    title: "Zillow webscraping",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Functions that take Zillow property url as input and produce data frames of scraped information as output",
+    url: "https://github.com/armaf002/Zillow-Webscraping",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Profit Optimization",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Optimizing Profitability in Multi-Country Sales Operations",
+    url: "https://github.com/armaf002/Optimizing-Profitability",
+  },
+  {
+    title: "Resume",
+    description:
+      "My Resume in PDF format",
+    url: "https://drive.google.com/file/d/1HOK99k_Ky1QKnMGWfXd8veAk9TSznC3V/view?usp=sharing",
+  },
+  {
+    title: "Tableau",
+    description:
+      "My Tableau Dashboard for Data Visualization",
+    url: "https://drive.google.com/file/d/1HOK99k_Ky1QKnMGWfXd8veAk9TSznC3V/view?usp=sharing",
   },
 ];
 
