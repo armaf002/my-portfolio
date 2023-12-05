@@ -64,7 +64,7 @@ const projectList = [
     title: "Tableau",
     description:
       "My Tableau Dashboard for Data Visualization",
-    url: "https://drive.google.com/file/d/1HOK99k_Ky1QKnMGWfXd8veAk9TSznC3V/view?usp=sharing",
+    url: "https://public.tableau.com/app/profile/armaf",
   },
 ];
 
